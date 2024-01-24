@@ -1,0 +1,31 @@
+.paddi{
+    padding: 7px,7px,7px,7px;
+}
+.money{
+    color:white;
+}
+.get{
+    color: white;
+}
+.gradient{
+    background: rgb(40,34,70);
+    background: linear-gradient(158deg,rgba(40,34,70)0%,rgba(30,47,141,1)100%);
+}
+.gradientlight{
+    background: rgb(53,138,148);
+    background: linear-gradient(158deg,rgba(53,138,148)0%,rgba(91,180,96,1)100%);  
+}
+.numtittle{
+    font-weight: 600;
+}
+.numsubtittle{
+    font-weight: 400;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(182, 182, 182);
+    font-size: 14px;
+}
+.bgcolor{
+    min-height: 100vh;
+    background: #ECEFF1;
+    background: linear-gradient(158deg,rgb(224,224,224)0%,rrgb(233,237,254)100%);
+}
